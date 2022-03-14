@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fraccion
+comment1.params=n\ d
+comment1.target=Fraccion(int,\ int)
+comment2.params=num\ denom
+comment2.target=void\ dividir(int,\ int)
+comment3.params=num\ denom
+comment3.target=void\ Multiplicar(int,\ int)
+comment4.params=num\ denom
+comment4.target=void\ Suma(int,\ int)
+comment5.params=num\ denom
+comment5.target=void\ Resta(int,\ int)
+comment6.params=
+comment6.target=void\ raizCuadrada()
+comment7.params=num
+comment7.target=void\ potencia(int)
+comment8.params=
+comment8.target=double\ Porcentaje()
+comment9.params=
+comment9.target=double\ Decimal()
+numComments=10

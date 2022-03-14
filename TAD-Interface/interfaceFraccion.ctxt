@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=interfaceFraccion
+comment1.params=num\ denom
+comment1.target=void\ dividir(int,\ int)
+comment2.params=num\ denom
+comment2.target=void\ Multiplicar(int,\ int)
+comment3.params=num\ denom
+comment3.target=void\ Suma(int,\ int)
+comment4.params=num\ denom
+comment4.target=void\ Resta(int,\ int)
+comment5.params=
+comment5.target=void\ raizCuadrada()
+comment6.params=num
+comment6.target=void\ potencia(int)
+comment7.params=
+comment7.target=double\ Porcentaje()
+comment8.params=
+comment8.target=double\ Decimal()
+numComments=9
